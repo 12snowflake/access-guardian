@@ -58,3 +58,4 @@ then open **http://127.0.0.1:5000** in a browser.
   demos, but don't run it if you want to keep real data.
 - The database file lives next to these scripts regardless of which folder
   you run the commands from.
+- Please copy-paste the video link from slides in a new tab to run the video.
